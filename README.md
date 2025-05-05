@@ -1,3 +1,11 @@
+<div align="center">
+    <h2 style="margin:0; font-size:3em; color:#333;">SISTEM MANAJEMEN PENJUALAN DAN ORDER PRODUK</h2>
+    <img src="/public/universitas sulawesi barat.jpg" alt="Logo UNSULBAR" style="display:block; margin:1em auto; max-width:80%; height:auto;" />
+    <h2 style="margin:0; font-size:2em; color:#333;">MUTMAINNAH TALIB</h2>
+    <h2 style="margin:0; font-size:2em; color:#333;">D0223008</h2>
+    <h2 style="margin:0; font-size:2em; color:#333;">FRAMEWORK WEB BASED</h2>
+    <h2 style="margin-top:0.5em; font-size:2em; color:#333;">2025</h2>
+  </div>
 Sistem Manajemen Penjualan dan Order Produk adalah aplikasi berbasis web yang dirancang untuk membantu pengelolaan penjualan produk dan pemrosesan order secara efisien. Sistem ini mendukung tiga jenis role pengguna:
 1.	Admin: Pengelola utama aplikasi yang memiliki akses penuh untuk mengatur pengguna, produk, pesanan, kategori, serta melihat laporan transaksi.
 2.	Customer (Pelanggan): Pengguna yang dapat melihat produk, melakukan pemesanan, memberikan ulasan, serta melacak status pesanan mereka.
