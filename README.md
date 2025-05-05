@@ -7,6 +7,7 @@
     <h2 style="margin-top:0.5em; font-size:2em; color:#333;">2025</h2>
   </div>
 Sistem Manajemen Penjualan dan Order Produk adalah aplikasi berbasis web yang dirancang untuk membantu pengelolaan penjualan produk dan pemrosesan order secara efisien. Sistem ini mendukung tiga jenis role pengguna:
+
 1.	Admin: Pengelola utama aplikasi yang memiliki akses penuh untuk mengatur pengguna, produk, pesanan, kategori, serta melihat laporan transaksi.
 2.	Customer (Pelanggan): Pengguna yang dapat melihat produk, melakukan pemesanan, memberikan ulasan, serta melacak status pesanan mereka.
 3.	Kurir: Petugas pengiriman yang dapat melihat daftar pesanan yang harus dikirim, memperbarui status pengiriman, dan mencatat waktu pengiriman.
